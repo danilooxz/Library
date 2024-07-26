@@ -1,0 +1,7 @@
+C:\C#\APP02\APP02\bin\Debug\APP02.exe.config
+C:\C#\APP02\APP02\bin\Debug\APP02.exe
+C:\C#\APP02\APP02\bin\Debug\APP02.pdb
+C:\C#\APP02\APP02\obj\Debug\APP02.csproj.AssemblyReference.cache
+C:\C#\APP02\APP02\obj\Debug\APP02.csproj.CoreCompileInputs.cache
+C:\C#\APP02\APP02\obj\Debug\APP02.exe
+C:\C#\APP02\APP02\obj\Debug\APP02.pdb
